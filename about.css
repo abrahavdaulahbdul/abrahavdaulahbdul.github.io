@@ -1,0 +1,58 @@
+h1 {
+    background-color: cornflowerblue;
+    text-align: center;
+
+}
+
+.short {
+    display: flex;
+    border-radius: 15px;
+    flex-direction: row;
+    margin: 6px 20px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+li {
+    margin: 0 30px;
+    display: inline;
+}
+
+a {
+
+    padding: 8px;
+    background-color: #dddddd;
+    border-radius: 15px;
+
+}
+
+.meee {
+    float: right;
+
+}
+
+body {
+    background-color: cadetblue;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+
+
+
+
+.meee {
+    background-color: aliceblue;
+}
+h3{background-color: #dddddd;text-align: center;} 
+.imi{justify-content: center;}
+a {
+    text-decoration: none;color: brown;
+    
+    
+    }
